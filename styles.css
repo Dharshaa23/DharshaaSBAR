@@ -82,8 +82,8 @@ section {
 }
 
 .home .content h5 {
-  color: #ccc;
-  font-size: 1.6rem;
+  color: hsl(0, 17%, 92%);
+  font-size: 3rem;
   font-weight: 500;
   text-align: center;
   margin-bottom: 1.5rem;
@@ -96,7 +96,7 @@ section {
   text-transform: uppercase;
   text-align: center;
   display: block;
-  font-size: 3rem;
+  font-size: 6rem;
 }
 
 .btn:hover {
