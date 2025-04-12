@@ -139,7 +139,6 @@ section {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(27rem, 1fr));
   gap: 1.5rem;
-  justify-content: center;
 }
 
 .service .box-container .box {
@@ -275,7 +274,13 @@ section {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(25rem, 1fr));
   gap: 1.5rem;
+}
+
+.price .center-row {
+  display: flex;
   justify-content: center;
+  gap: 1.5rem;
+  flex-wrap: wrap;
 }
 
 .price .box-container .box {
