@@ -277,12 +277,6 @@ section {
   justify-content: center;
 }
 
-.price .center-row {
-  display: flex;
-  justify-content: center;
-  gap: 1.5rem;
-  flex-wrap: wrap;
-}
 
 .price .box-container .box {
   padding: 2rem 0;
